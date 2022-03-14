@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rinkesh.</h1>
 
-<!--
-**rinkeshsante/rinkeshsante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
+  BeliefSat, Automated Groud-station and Upper Air Sounding System.
+- 🌱 I’m currently learning Data Science, Java and software defined radio's.
+- 💬 Ask me about anything you want.
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [rinkeshsante@gmail.com](mailto:rinkeshsante@gmail.com)
+- [rinkesh.sante@somaiya.edu](mailto:rinkesh.sante@somaiya.edu)
+
+### Language and Tools
+
+- Python
+- Django
+- JavaScript
+- React JS
+- Git/GitHub
+- Bootstrap4
+- Material-UI
+
+### Embedded System
+
+- Arduino hardware and firmware
+- Eagle
+- Kicad
+- RF Communication
